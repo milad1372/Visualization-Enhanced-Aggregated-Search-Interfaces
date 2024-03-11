@@ -1,7 +1,7 @@
 
 # Visualization-Enhanced Aggregated Search Interfaces
 
-This repository hosts the materials and code associated with the research project "Visualization-Enhanced Aggregated Search Interfaces", as presented at [CHIIR 2024](https://chiir2024.github.io/allpapers.html) and published in the ACM Digital Library.
+This repository hosts the materials and code associated with the research project "Visualization-Enhanced Aggregated Search Interfaces", as presented at ACM SIGIR Conference on Human Information Interaction And Retrieval [CHIIR 2024] ((https://chiir2024.github.io/allpapers.html) and published in the ACM Digital Library.
 
 ## Abstract
 
